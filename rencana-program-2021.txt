@@ -3,6 +3,9 @@ RENCANA PROGRAM 2021
 - Tahfiz Qur'an
   * 1 halaman/pekan
   * dimulai dari akhir juz 30
+    ^ dari surah terakhir
 - gowes
+  * Alue Naga
+    ^ minimal sekali dalam sepekan
 - fitness
 - Project T.A
