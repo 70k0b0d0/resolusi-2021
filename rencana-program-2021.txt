@@ -6,5 +6,6 @@ RENCANA PROGRAM 2021
     ^ dari surah terakhir
 - gowes
   * Alue Naga
+    ^ minimal sekali dalam sepekan
 - fitness
 - Project T.A
