@@ -9,3 +9,4 @@ RENCANA PROGRAM 2021
     ^ minimal sekali dalam sepekan
 - fitness
 - Project T.A
+- Magang
