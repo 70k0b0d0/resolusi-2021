@@ -7,5 +7,6 @@ RENCANA PROGRAM 2021
 - gowes
   * Alue Naga
     ^ minimal sekali dalam sepekan
+- fitness
 - Project T.A
 - Magang
